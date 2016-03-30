@@ -1,6 +1,6 @@
 # Bash profile function to switch JDK versions for Mac users
 
-This is a Bash profile function called `switchjdk` for Mac users to switch JDK versions on the command line. The `switchjdk` function changes `java`, `javac` and other JDK command for the terminal/shell, and subprocesses. It does not have an effect on things outside that particular terminal.
+This is a Bash profile function called `switchjdk` for Mac users to switch JDK versions on the command line. The `switchjdk` function changes `java`, `javac` and other JDK commands for the terminal/shell, and subprocesses. It does not have an effect on things outside that particular terminal.
 
 ## Rationale
 
